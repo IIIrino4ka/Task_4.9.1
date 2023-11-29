@@ -1,5 +1,5 @@
 # Task_4.9.1
 # Моя первая страница
-[Главная](/pages/index.html)
-[О нас](/pages/about.html)
-[Контакты](/pages/contacts.html)
+[Главная](https://iiirino4ka.github.io/Task_4.9.1/pages/index.html)
+[О нас](https://iiirino4ka.github.io/Task_4.9.1/pages/about.html)
+[Контакты](https://iiirino4ka.github.io/Task_4.9.1/pages/contacts.html)
